@@ -1,0 +1,14 @@
+resumen de comandos básicos git
+
+1. clonar
+  git clone url_del_repositorio
+2. agregar cambios
+  git add -A
+3. hacer commit, guardar los cambios en el repositorio local
+  git commit -m "mensaje de cambios"
+4. Enviar los cambios al repositorio remoto
+   git push
+5. obtener cambios del repositorio remoto
+   git pull
+6. observar los cambios en el repositorio local 
+   git status
